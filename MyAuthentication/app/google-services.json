@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "801218740473",
+    "project_id": "proven-dream-308001",
+    "storage_bucket": "proven-dream-308001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801218740473:android:13deb7d46fe1af0eaf2228",
+        "android_client_info": {
+          "package_name": "com.example.myauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801218740473-3jdnlj1tkuoop1baaod4ppb7ng13k5kh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxT_OoJ_gC2JPKuhai5cEXDcA7fnOwrok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801218740473-3jdnlj1tkuoop1baaod4ppb7ng13k5kh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
